@@ -1,0 +1,149 @@
+{
+  "license": "Unsplash License — kostenfreie Nutzung, Credits erbeten.",
+  "items": [
+    {
+      "id": "smash-mae",
+      "src": "https://images.unsplash.com/photo-1553979459-d2229ba7433b?auto=format&fit=crop&w=1800&q=80",
+      "alt": "Smash-Burger mit geschmolzenem Cheddar",
+      "photographer": "Mae Mu",
+      "handle": "picoftasty",
+      "unsplash": "https://unsplash.com/@picoftasty"
+    },
+    {
+      "id": "cheeseburger-ilya",
+      "src": "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=1600&q=80",
+      "alt": "Cheeseburger mit Salat und Sauce",
+      "photographer": "Ilya Mashkov",
+      "handle": "ilyamashkov",
+      "unsplash": "https://unsplash.com/@ilyamashkov"
+    },
+    {
+      "id": "burger-fries-mike",
+      "src": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?auto=format&fit=crop&w=1600&q=80",
+      "alt": "Burger mit Pommes auf einem Brett",
+      "photographer": "Mike",
+      "handle": "omaha",
+      "unsplash": "https://unsplash.com/@omaha"
+    },
+    {
+      "id": "double-burger",
+      "src": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=1600&q=80",
+      "alt": "Doppelter Burger mit Sesambrötchen",
+      "photographer": "Unsplash",
+      "handle": "unsplash",
+      "unsplash": "https://unsplash.com/photos/nCU4TZffLZg"
+    },
+    {
+      "id": "salad-anna",
+      "src": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1600&q=80",
+      "alt": "Bunte Gemüseschüssel",
+      "photographer": "Anna Pelzer",
+      "handle": "annapelzer",
+      "unsplash": "https://unsplash.com/@annapelzer"
+    },
+    {
+      "id": "salad-brooke",
+      "src": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?auto=format&fit=crop&w=1600&q=80",
+      "alt": "Frischer Salat mit Granatapfel",
+      "photographer": "Brooke Lark",
+      "handle": "brookelark",
+      "unsplash": "https://unsplash.com/@brookelark"
+    },
+    {
+      "id": "bowl-anh",
+      "src": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=1600&q=80",
+      "alt": "Salatbowl mit Ei und Gemüse",
+      "photographer": "Anh Nguyen",
+      "handle": "pwign",
+      "unsplash": "https://unsplash.com/@pwign"
+    },
+    {
+      "id": "pasta-pan",
+      "src": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?auto=format&fit=crop&w=1600&q=80",
+      "alt": "Nudeln in der Pfanne mit Kräutern",
+      "photographer": "Saahil Khatkhate",
+      "handle": "saahilkhatkhate",
+      "unsplash": "https://unsplash.com/@saahilkhatkhate"
+    },
+    {
+      "id": "sage-pasta",
+      "src": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=1600&q=80",
+      "alt": "Pfannengericht mit Kräuterbutter",
+      "photographer": "Jennifer Schmidt",
+      "handle": "jenniferschmidt",
+      "unsplash": "https://unsplash.com/@jenniferschmidt"
+    },
+    {
+      "id": "cream-pasta",
+      "src": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?auto=format&fit=crop&w=1600&q=80",
+      "alt": "Goldene Nudeln mit Parmesan",
+      "photographer": "Unsplash",
+      "handle": "unsplash",
+      "unsplash": "https://unsplash.com/s/photos/pasta"
+    },
+    {
+      "id": "mushroom-pasta",
+      "src": "https://images.unsplash.com/photo-1612874742237-6526221588e3?auto=format&fit=crop&w=1600&q=80",
+      "alt": "Nudeln mit Pilzen und Käse",
+      "photographer": "Unsplash",
+      "handle": "unsplash",
+      "unsplash": "https://unsplash.com/s/photos/pasta"
+    },
+    {
+      "id": "restaurant-jay",
+      "src": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1800&q=80",
+      "alt": "Gedämpftes Restaurant bei Nacht",
+      "photographer": "Jay Wennington",
+      "handle": "jaywennington",
+      "unsplash": "https://unsplash.com/@jaywennington"
+    },
+    {
+      "id": "plated",
+      "src": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=1600&q=80",
+      "alt": "Angerichteter Teller im Restaurantlicht",
+      "photographer": "Jay Wennington",
+      "handle": "jaywennington",
+      "unsplash": "https://unsplash.com/@jaywennington"
+    },
+    {
+      "id": "spread-brooke",
+      "src": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1800&q=80",
+      "alt": "Gedeckter Tisch mit bunten Gerichten",
+      "photographer": "Brooke Lark",
+      "handle": "brookelark",
+      "unsplash": "https://unsplash.com/@brookelark"
+    },
+    {
+      "id": "fries",
+      "src": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?auto=format&fit=crop&w=1200&q=80",
+      "alt": "Goldene Pommes",
+      "photographer": "Louis Hansel",
+      "handle": "louishansel",
+      "unsplash": "https://unsplash.com/@louishansel"
+    },
+    {
+      "id": "potato",
+      "src": "https://images.unsplash.com/photo-1518013431117-eb1465fa5752?auto=format&fit=crop&w=1200&q=80",
+      "alt": "Geröstete Kartoffeln aus dem Ofen",
+      "photographer": "Unsplash",
+      "handle": "unsplash",
+      "unsplash": "https://unsplash.com/s/photos/potato"
+    },
+    {
+      "id": "bowl-color",
+      "src": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&w=1600&q=80",
+      "alt": "Bunte Bowl mit Gemüse",
+      "photographer": "Unsplash",
+      "handle": "unsplash",
+      "unsplash": "https://unsplash.com/s/photos/salad-bowl"
+    },
+    {
+      "id": "pan-brooke",
+      "src": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?auto=format&fit=crop&w=1600&q=80",
+      "alt": "Heißes Pfannengericht",
+      "photographer": "Brooke Lark",
+      "handle": "brookelark",
+      "unsplash": "https://unsplash.com/@brookelark"
+    }
+  ]
+}

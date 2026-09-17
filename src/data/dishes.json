@@ -1,0 +1,115 @@
+{
+  "categories": [
+    { "id": "burger", "label": "Burger", "blurb": "Smash auf der Platte. Cheddar, der zieht." },
+    { "id": "schupf", "label": "Schupfnudeln", "blurb": "Goldbraun, butterig, schwäbisch mit kölscher Haltung." },
+    { "id": "salat", "label": "Salate", "blurb": "Knackig. Kein Beilagen-Alibi." }
+  ],
+  "items": [
+    {
+      "id": "ehrenfeld-smash",
+      "name": "Ehrenfeld Smash",
+      "category": "burger",
+      "priceEur": 12.9,
+      "photoId": "smash-mae",
+      "tag": "Klassiker",
+      "note": "Doppel-Smash, Cheddar, Zwiebel, Sauce"
+    },
+    {
+      "id": "chili-angel",
+      "name": "Chili Cheese Angel",
+      "category": "burger",
+      "priceEur": 14.5,
+      "photoId": "cheeseburger-ilya",
+      "tag": "Scharf",
+      "note": "Jalapeño, Chili-Cheese, Gurke"
+    },
+    {
+      "id": "dom-double",
+      "name": "Dom Double",
+      "category": "burger",
+      "priceEur": 16.9,
+      "photoId": "double-burger",
+      "tag": "Groß",
+      "note": "Zwei Patties, Bacon, Extra-Cheddar"
+    },
+    {
+      "id": "gruener-engel",
+      "name": "Grüner Engel",
+      "category": "burger",
+      "priceEur": 13.5,
+      "photoId": "burger-fries-mike",
+      "tag": "Vegetarisch",
+      "note": "Erbsen-Patty, Avocado, Kräutercreme"
+    },
+    {
+      "id": "schupf-speck",
+      "name": "Schupf mit Speck & Kraut",
+      "category": "schupf",
+      "priceEur": 14.9,
+      "photoId": "pan-brooke",
+      "tag": "Hausrezept",
+      "note": "Sauerkraut, Speck, braune Butter"
+    },
+    {
+      "id": "schupf-salbei",
+      "name": "Butter-Salbei Schupf",
+      "category": "schupf",
+      "priceEur": 13.5,
+      "photoId": "sage-pasta",
+      "tag": "Vegetarisch",
+      "note": "Salbei, Parmesan, Pfeffer"
+    },
+    {
+      "id": "schupf-pfifferling",
+      "name": "Pfifferling-Schupf",
+      "category": "schupf",
+      "priceEur": 16.9,
+      "photoId": "mushroom-pasta",
+      "tag": "Saison",
+      "note": "Pfifferlinge, Schmand, Schnittlauch"
+    },
+    {
+      "id": "schupf-suess",
+      "name": "Süßkartoffel-Schupf",
+      "category": "schupf",
+      "priceEur": 15.5,
+      "photoId": "pasta-pan",
+      "tag": "Vegetarisch",
+      "note": "Ziegenkäse, Walnuss, Honig"
+    },
+    {
+      "id": "bauernsalat",
+      "name": "Rheinischer Bauernsalat",
+      "category": "salat",
+      "priceEur": 11.9,
+      "photoId": "salad-anna",
+      "note": "Feldsalat, Ei, Speck, Senfvinaigrette"
+    },
+    {
+      "id": "caesar-angel",
+      "name": "Angel Caesar",
+      "category": "salat",
+      "priceEur": 12.5,
+      "photoId": "salad-brooke",
+      "note": "Romana, Croutons, Hartkäse"
+    },
+    {
+      "id": "rote-bete",
+      "name": "Rote Bete & Walnuss",
+      "category": "salat",
+      "priceEur": 11.5,
+      "photoId": "bowl-anh",
+      "tag": "Vegetarisch",
+      "note": "Ziegenkäse, Orange, Rauke"
+    },
+    {
+      "id": "grillbowl",
+      "name": "Grillgemüse Bowl",
+      "category": "salat",
+      "priceEur": 13.9,
+      "photoId": "bowl-color",
+      "tag": "Vegan",
+      "note": "Zucchini, Paprika, Hummus"
+    }
+  ]
+}

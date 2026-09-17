@@ -1,0 +1,38 @@
+{
+  "name": "Food Angels Köln",
+  "shortName": "Food Angels",
+  "tagline": "Smash. Schupf. Salat.",
+  "promise": "Heiß aus der Pfanne. Mitten in Ehrenfeld.",
+  "description": "Smash-Burger von der Platte, Schupfnudeln in der Butter, Salate die nach Garten schmecken. Essen, mitnehmen, feiern.",
+  "neighborhood": "Ehrenfeld",
+  "city": "Köln",
+  "address": {
+    "street": "Venloer Straße 248",
+    "zip": "50823",
+    "city": "Köln",
+    "country": "Deutschland"
+  },
+  "geo": {
+    "lat": 50.9485,
+    "lng": 6.9218
+  },
+  "phone": "+49 221 987 4410",
+  "phoneHref": "tel:+492219874410",
+  "email": "hallo@foodangels.koeln",
+  "instagramHandle": "@foodangelskeln",
+  "instagramUrl": "https://instagram.com/foodangelskeln",
+  "hours": [
+    { "days": "Montag", "time": "Ruhetag", "closed": true },
+    { "days": "Dienstag – Donnerstag", "time": "11:30 – 22:00", "closed": false },
+    { "days": "Freitag – Samstag", "time": "11:30 – 23:00", "closed": false },
+    { "days": "Sonntag", "time": "12:00 – 21:00", "closed": false }
+  ],
+  "takeawayNote": "Abholung vor Ort. Kein Lieferdienst — der Burger bleibt knusprig.",
+  "visitNote": "Kein Online-Tisch. Freitag ab 18 Uhr wird’s eng. Kommt trotzdem.",
+  "legal": {
+    "company": "Food Angels Köln GmbH",
+    "owner": "Lea Hoffmann",
+    "register": "Amtsgericht Köln, HRB 000000 (Demo)",
+    "vatId": "DE000000000 (Demo)"
+  }
+}

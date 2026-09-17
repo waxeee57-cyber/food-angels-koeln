@@ -1,0 +1,71 @@
+{
+  "intro": "Ab 10 Personen. Köln und Umland. Wir liefern warm — oder stellen die Burger-Bar bei euch auf.",
+  "leadTime": "Bitte 5 Werktage Vorlauf. Kurzfristig? Anrufen.",
+  "packages": [
+    {
+      "id": "burger-bar",
+      "name": "Burger-Bar",
+      "priceFromEur": 18,
+      "unit": "pro Person",
+      "minGuests": 10,
+      "photoId": "smash-mae",
+      "includes": [
+        "Zwei Smash-Varianten inkl. vegetarisch",
+        "Brioche, Saucen, Toppings",
+        "Pommes oder Kartoffelsalat"
+      ]
+    },
+    {
+      "id": "schupf-pfanne",
+      "name": "Schupfnudel-Pfanne",
+      "priceFromEur": 16,
+      "unit": "pro Person",
+      "minGuests": 10,
+      "photoId": "sage-pasta",
+      "includes": [
+        "Zwei Pfannen: Speck & vegetarisch",
+        "Salbei-Butter, Kraut, Parmesan",
+        "Grüner Salat"
+      ]
+    },
+    {
+      "id": "salatbuffet",
+      "name": "Salatbuffet",
+      "priceFromEur": 12,
+      "unit": "pro Person",
+      "minGuests": 10,
+      "photoId": "salad-anna",
+      "includes": [
+        "Drei saisonale Salate",
+        "Brot & Dips",
+        "Vegan auf Wunsch komplett"
+      ]
+    },
+    {
+      "id": "office-box",
+      "name": "Office Lunch Box",
+      "priceFromEur": 14.5,
+      "unit": "pro Box",
+      "minGuests": 8,
+      "photoId": "bowl-color",
+      "includes": [
+        "Burger oder Schupf oder Bowl",
+        "Nachtisch-Happen",
+        "Beschriftet, staffelfähig"
+      ]
+    },
+    {
+      "id": "koeln-event",
+      "name": "Event-Paket Köln",
+      "priceFromEur": 24,
+      "unit": "pro Person",
+      "minGuests": 15,
+      "photoId": "spread-brooke",
+      "includes": [
+        "Burger + Schupf + zwei Salate",
+        "Service vor Ort auf Anfrage",
+        "Für Hochzeit, Premiere, Hof"
+      ]
+    }
+  ]
+}
